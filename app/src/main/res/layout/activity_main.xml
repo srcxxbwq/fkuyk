@@ -10,7 +10,7 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="марина лох"
+        android:text="марина не лох"
         android:textColor="#6FEBEB"
         android:textSize="60sp"
         android:textStyle="bold|italic"
